@@ -13,7 +13,7 @@
 
 • техники тестирования (классы эквивалентности, граничные значения, попарное тестирование, таблица принятия решений, таблица перехода состояний);
 
-• составление тестовой документации (чек-листы, тест кейсы, отчёты об ошибках) на разных платформах (TestIt, Google Docs, Google Sheets);
+• составление тестовой документации (чек-листы, тест кейсы, отчёты о дефектах) на разных платформах (TestIt, Google Docs, Google Sheets);
 
 • опыт с продуктами Atlassian (Jira, Confluence, Trello);
 
@@ -47,7 +47,7 @@
 • Английский (C1).
 
 ## Портфолио
-• [Тестовое задание от  24.06.2025](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Тестирование мобильного приложения (отчёт о результатах тестирования, чек-лист, тест-кейсы) + рекомендации по улучшению приложения и процесса тестирования.
+• [Тестовое задание от  24.06.2025](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Тестирование мобильной игры (отчёт о результатах тестирования, чек-лист, тест-кейсы) + рекомендации по улучшению приложения и процесса тестирования.
 ## Ссылки
 • [HeadHunter](https://hh.ru/resume/9e98ee83ff0dc67bc20039ed1f335562675477);
 
@@ -64,43 +64,49 @@ As a hobby, I am interested in GameDev: game design, Unity and C#.
 
 ## Skills
 #### Testing
-• базовые знания теории тестирования (принципы, типы тестирования, анализ требований, модели разработки ПО с акцентом на Scrum);
+• basics the testing theory (the principles, types of testing, requirements analysis, software development models with an emphasis on Scrum);
 
-• техники тестирования (классы эквивалентности, граничные значения, попарное тестирование, таблица принятия решений, таблица перехода состояний);
+• testing techniques (equivalence classes, boundary value, pairwise testing, decision table, state transition testing);
 
-• составление тестовой документации (чек-листы, тест-кейсы, отчёты об ошибках) на разных платформах (TestIt, Google Docs, Google Sheets);
+• writing test documentation (checklists, test cases, bug reports) on different platforms (TestIt, Google Docs, Google Sheets);
 
-• опыт с продуктами Atlassian (Jira, Confluence, Trello);
+• experience with the Atlassian products (Jira, Confluence, Trello);;
 
-• работа с эмуляторами (Android Studio);
+• experience with emulators (Android Studio);
 
-• тестирование веб-приложений (базовый HTML, Devtools, Charles Proxy);
+• web testing (basic HTML, Devtools, Charles Proxy);
 
-• тестирование API (SOAP, REST, Postman);
+• API testing (SOAP, REST, Postman);
 
-• тестирование баз данных SQL (MySQL);
+• SQL database testing (MySQL);
 
-• тестирование мобильных приложений;
+• mobile application testing;
 
-• тестирование локализации;
+• localization testing;
 
-• тестирование графики;
+• graphics testing;
 
-• регрессивное тестирование;
+• regression testing;
 
 • Git и GitHub;
 
 • Miro;
 
-• менторинг.
+• mentoring.
 
 #### Languages
-• Русский (родной);
+• Russian (native);
 
-• Белорусский (родной);
+• Belarusian (native);
 
-• Английский (C1).
+• English (C1).
 
 ## Portfolio
+• [Test assignment from 06/24/2025 (RU)](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Mobile game testing (test report, checklist, test cases) + recommendations for improving the app and the testing process.
 
 ## Links
+• [HeadHunter](https://hh.ru/resume/9e98ee83ff0dc67bc20039ed1f335562675477);
+
+• [LinkedIn](https://www.linkedin.com/in/morozovva00/);
+
+• resume.
