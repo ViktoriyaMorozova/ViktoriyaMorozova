@@ -70,7 +70,7 @@ As a hobby, I am interested in GameDev: game design, Unity and C#.
 
 • writing test documentation (checklists, test cases, bug reports) on different platforms (TestIt, Google Docs, Google Sheets);
 
-• experience with the Atlassian products (Jira, Confluence, Trello);;
+• experience with the Atlassian products (Jira, Confluence, Trello);
 
 • experience with emulators (Android Studio);
 
