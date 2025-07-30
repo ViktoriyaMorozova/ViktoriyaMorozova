@@ -47,8 +47,7 @@
 • Английский (C1).
 
 ## Портфолио
-[Тестовое задание от  24.06.2025. Тестирование мобильного приложения (отчёт о результатах тестирования, чек-лист, тест-кейсы)]([url](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing))
-
+[Тестовое задание от  24.06.2025. Тестирование мобильного приложения (отчёт о результатах тестирования, чек-лист, тест-кейсы)](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing).
 ## Ссылки
 
 # ENG
