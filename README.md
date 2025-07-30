@@ -42,9 +42,11 @@ As a hobby, I am interested in GameDev: game design, Unity and C#.
 • менторинг.
 
 #### Языки || Languages
-• Русский (родной)
+• Русский (родной);
 
-• Аглийский (
+• Белорусский (родной);
+
+• Английский (C1);
 
 ## Портфолио || Portfolio
 
