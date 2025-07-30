@@ -53,7 +53,7 @@
 
 • [LinkedIn](https://www.linkedin.com/in/morozovva00/);
 
-• резюме.
+• [резюме](https://drive.google.com/file/d/1eTnnqcBrwWg98Fn6pQebf7AvaMWaYeUH/view?usp=sharing).
 
 # ENG
 
@@ -109,4 +109,4 @@ As a hobby, I am interested in GameDev: game design, Unity and C#.
 
 • [LinkedIn](https://www.linkedin.com/in/morozovva00/);
 
-• resume.
+• [resume](https://drive.google.com/file/d/1pFEYRI7K8YlCqytOuJsBFffA0ZstCH0i/view?usp=sharing).
