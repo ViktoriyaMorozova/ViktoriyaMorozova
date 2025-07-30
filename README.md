@@ -49,9 +49,9 @@
 ## Портфолио
 • [Тестовое задание от  24.06.2025](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Тестирование мобильного приложения (отчёт о результатах тестирования, чек-лист, тест-кейсы) + рекомендации по улучшению приложения и процесса тестирования.
 ## Ссылки
-• HeadHunter;
+• [HeadHunter](https://hh.ru/resume/9e98ee83ff0dc67bc20039ed1f335562675477);
 
-• LinkedIn;
+• [LinkedIn](https://www.linkedin.com/in/morozovva00/);
 
 • резюме.
 
