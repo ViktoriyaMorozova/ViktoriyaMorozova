@@ -5,6 +5,10 @@
 Первую работу нашла в начале 2025 г. — тестировщиком локализации игр (мобильных и PC).
 Как хобби интересуюсь разработкой игр: геймдизайном, Unity и C#.
 
+I've started learning testing on my own in 2024 after almost three years of working as a customer support manager. In that job, I liked to immerse myself in the product and the tools we used to improve the service and internal processes. Testing got me interested precisely because of the opportunity to do it on a deeper level, as well as a good balance between routine and potential new tasks in the work.
+I found my first job as a QA at the beginning of 2025 — as a game localization tester (mobile and PC).
+As a hobby, I am interested in GameDev: game design, Unity and C#.
+
 ## Навыки || Skills
 
 ## Портфолио || Portfolio
