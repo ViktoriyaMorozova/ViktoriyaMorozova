@@ -3,8 +3,7 @@
 # RU
 
 ## Обо мне
-Тестированию начала учиться самостоятельно в 2024 г. после почти трёх лет работы менеджером поддержки клиентов. В поддержке мне нравилось погружаться в продукт и используемые инструменты для улучшения сервиса и внутренних процессов. Тестирование заинтересовало именно возможностью заниматься этим на более глубоком уровне, а также хорошим балансом рутины и потенциальных новых задач в работе.
-Первую работу нашла в начале 2025 г. — тестировщиком локализации игр (мобильных и PC).
+Работаю по профессию уже почти год как фрилансер. Занималась в основном тестированием локализации игр (мобильных и ПК), регрессионным тестированием, тестированием графики, также есть опыт участия в бета-тестах, плейтестах, UX тестах, составления тестовой документации и менторства новых тестировщиков на проекте. Тестирование заинтересовало возможностью глубоко погружаться в продукт и рабочие процессы, а также хорошим балансом рутины и новых задач в работе.
 Как хобби интересуюсь разработкой игр: геймдизайном, Unity и C#.
 
 ## Навыки
@@ -31,7 +30,11 @@
 
 • тестирование графики;
 
-• регрессивное тестирование;
+• регрессионное тестирование;
+
+• плейтесты;
+
+• UX тестирование;
 
 • Git и GitHub;
 
@@ -47,19 +50,19 @@
 • Английский (C1).
 
 ## Портфолио
-• [Тестовое задание от  24.06.2025](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Тестирование мобильной игры (отчёт о результатах тестирования, чек-лист, тест-кейсы) + рекомендации по улучшению приложения и процесса тестирования.
+• [Тестирование мобильной игры Kiss Me](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Отчёт о результатах тестирования установки, запуска, стартового экрана и регистрации. Чек-лист и тест-кейсы для окна покупки подписки. Рекомендации по улучшению приложения и процесса тестирования.
+• [Тестирование мобильной игры Domino King](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Чек-листы для тестирования разделов "Друзья" и "Чат".
 ## Ссылки
 • [HeadHunter](https://hh.ru/resume/9e98ee83ff0dc67bc20039ed1f335562675477);
 
 • [LinkedIn](https://www.linkedin.com/in/morozovva00/);
 
-• [резюме](https://drive.google.com/file/d/1eTnnqcBrwWg98Fn6pQebf7AvaMWaYeUH/view?usp=sharing).
+• [резюме](https://drive.google.com/file/d/1Pvs60rw32oqnCv5NffmJ5_AXM1dk2ve5/view?usp=drive_link).
 
 # ENG
 
 ## About Me
-I've started learning testing on my own in 2024 after almost three years of working as a customer support manager. In that job, I liked to immerse myself in the product and the tools we used to improve the service and internal processes. Testing got me interested precisely because of the opportunity to do it on a deeper level, as well as a good balance between routine and potential new tasks in the work.
-I found my first job as a QA at the beginning of 2025 — as a game localization tester (mobile and PC).
+I've been working as a freelancer for almost a year now. Primary as a game localization tester (mobile and PC). Has done regression testing and graphics testing. I also have experience in beta tests, playtests, UX testing, writing test documentation and mentoring new testers on projects. Testing appealed to me because of the opportunity to deeply immerse myself in the product and the process of its creation, as well as the good balance between the routine and new challenges.
 As a hobby, I am interested in GameDev: game design, Unity and C#.
 
 ## Skills
@@ -88,6 +91,10 @@ As a hobby, I am interested in GameDev: game design, Unity and C#.
 
 • regression testing;
 
+• playtesting;
+
+• UX testing;
+
 • Git и GitHub;
 
 • Miro;
@@ -102,11 +109,12 @@ As a hobby, I am interested in GameDev: game design, Unity and C#.
 • English (C1).
 
 ## Portfolio
-• [Test assignment from 06/24/2025 (RU)](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Mobile game testing (test report, checklist, test cases) + recommendations for improving the app and the testing process.
+• [Testing Kiss Me mobile game(RU)](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Test results report after the testing of the installation, launch, home screen, and registration. A checklist and test cases for a subscription purchase window. Recommendations for improving the app and the testing process.
+• [Testing Domino King mobile game(RU)](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Checklists for testing the "Friends" and "Chat" sections.
 
 ## Links
 • [HeadHunter](https://hh.ru/resume/9e98ee83ff0dc67bc20039ed1f335562675477);
 
 • [LinkedIn](https://www.linkedin.com/in/morozovva00/);
 
-• [resume](https://drive.google.com/file/d/1pFEYRI7K8YlCqytOuJsBFffA0ZstCH0i/view?usp=sharing).
+• [CV](https://drive.google.com/file/d/1xT58OKyxWtSzuYcueuoL0WrCerbi664d/view?usp=drive_link).
