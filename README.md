@@ -110,9 +110,9 @@ As a hobby, I am interested in GameDev: game design, Unity and C#.
 • English (C1).
 
 ## Portfolio
-• [Testing Kiss Me mobile game(RU)](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Test results report after the testing of the installation, launch, home screen, and registration. A checklist and test cases for a subscription purchase window. Recommendations for improving the app and the testing process.
+• [Testing Kiss Me mobile game (RU)](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Test results report after the testing of the installation, launch, home screen, and registration. A checklist and test cases for a subscription purchase window. Recommendations for improving the app and the testing process.
 
-• [Testing Domino King mobile game(RU)](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Checklists for testing the "Friends" and "Chat" sections.
+• [Testing Domino King mobile game (RU)](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Checklists for testing the "Friends" and "Chat" sections.
 
 ## Links
 • [HeadHunter](https://hh.ru/resume/9e98ee83ff0dc67bc20039ed1f335562675477);
