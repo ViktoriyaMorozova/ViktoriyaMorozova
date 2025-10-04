@@ -53,6 +53,9 @@
 • [Тестирование мобильной игры Kiss Me](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Отчёт о результатах тестирования установки, запуска, стартового экрана и регистрации. Чек-лист и тест-кейсы для окна покупки подписки. Рекомендации по улучшению приложения и процесса тестирования.
 
 • [Тестирование мобильной игры Domino King](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Чек-листы для тестирования разделов "Друзья" и "Чат".
+
+• [Тестирование мобильной игры Spider Fighter 2](https://docs.google.com/spreadsheets/d/1epfazbRf88LlDe00Ie9lyDh5Z2MOIKcsK8suXTjZC4w/edit?gid=0#gid=0). Отчёты об ошибках по итогам исследовательского тестирования.
+
 ## Ссылки
 • [HeadHunter](https://hh.ru/resume/9e98ee83ff0dc67bc20039ed1f335562675477);
 
@@ -113,6 +116,8 @@ As a hobby, I am interested in GameDev: game design, Unity and C#.
 • [Testing Kiss Me mobile game (RU)](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Test results report after the testing of the installation, launch, home screen, and registration. A checklist and test cases for a subscription purchase window. Recommendations for improving the app and the testing process.
 
 • [Testing Domino King mobile game (RU)](https://docs.google.com/document/d/1joBGz_u3BGjCpNly7pLa_FbmPVOzNkg3RCVB70_64Io/edit?usp=sharing). Checklists for testing the "Friends" and "Chat" sections.
+
+• [Testing Spider Fighter 2 mobile game (RU)](https://docs.google.com/spreadsheets/d/1epfazbRf88LlDe00Ie9lyDh5Z2MOIKcsK8suXTjZC4w/edit?gid=0#gid=0). Bug reports after exploratory testing.
 
 ## Links
 • [HeadHunter](https://hh.ru/resume/9e98ee83ff0dc67bc20039ed1f335562675477);
